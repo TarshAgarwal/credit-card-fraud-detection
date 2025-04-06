@@ -48,7 +48,7 @@ You can scroll through it and select a row to auto-fill the prediction input.
 ---
 
 ### 🙌 Acknowledgements  
-- **Dataset**: [Kaggle Credit Card Fraud Detection Dataset]
+- **Dataset**: [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Frontend**: [Streamlit]  
 - **Libraries**: scikit-learn, pandas, numpy, joblib
 
